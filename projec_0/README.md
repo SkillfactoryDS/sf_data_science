@@ -1,8 +1,8 @@
 # Проект 0. Угадай число
 ## Оглавление
-[1. Описание проекта]()
+[1. Описание проекта](https://github.com/Woodthorn/sf_data_science/tree/master/projec_0/README.md#Описание-проекта)
 
-[2. Какой кейс решаем?]()
+[2. Какой кейс решаем?](https://github.com/Woodthorn/sf_data_science/tree/master/projec_0/README.md#Какой-кейс-решаем)
 
 [3. Краткая ниформация о данных]()
 
@@ -15,7 +15,7 @@
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное количество попыток
 
-:arrow_up: [К оглавлению](https://github.com/Woodthorn/sf_data_science/tree/master/projec_0/README.md)
+:arrow_up: [К оглавлению](https://github.com/Woodthorn/sf_data_science/tree/master/projec_0/README.md#Оглавление)
 
 ### Какой кейс решаем?
 нужно написать программу, которая угадывает число за минимальное количество попыток
